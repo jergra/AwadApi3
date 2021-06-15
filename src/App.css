@@ -4,13 +4,11 @@
 .App {
   display: flex;
   flex-wrap: wrap;
-  background-color: #34282d ;
   width: 100%;
   min-height: 20vh;
   font-size: calc(7px + 2vmin);
   color: white;
   margin: 50px;
-  padding: 30px;
 }
 
 .App-logo {
@@ -113,6 +111,8 @@
 .block {
   display: flex;
   flex-wrap: wrap;
+  background-color: #111134;
+  padding: 30px;
 }
 button {
   margin-left: 50px;
